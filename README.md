@@ -9,7 +9,7 @@ We started as an Audit & Development firm for smart contracts in the beginning o
 - KYC Verification.
 
 ### Our statistics:
-- 🚀 More than 250 public Smart Contract audits.
+- 🚀 More than 1000 public Smart Contract audits.
 
 ### Official links:
 - Website: https://www.tech-audit.org
